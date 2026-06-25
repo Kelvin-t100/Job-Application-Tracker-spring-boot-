@@ -1,25 +1,25 @@
 This is version 1.0 of the job application tacker. future enhancement are planned to be made along with my learning journey.
 
 # Version 1.0 Features
-1.Create a new job application
-2.Search applications by
-3.Company Name
+1.Create a new job application<br>
+2.Search applications by<br>
+3.Company Name<br>
 4.Role<br>
-5.Status
-6.Application ID
+5.Status<br>
+6.Application ID<br>
 7.Update application status<br>
-8.Store personal notes for each application
-9.Paginated retrieval of applications
+8.Store personal notes for each application<br>
+9.Paginated retrieval of applications<br>
 10.Input validation<br>
-11.Global exception handling
+11.Global exception handling<br>
 
 # TECH STACK
-*Java 21
-*Spring Boot
+*Java 21<br>
+*Spring Boot<br>
 *Spring Data JPA<br>
-*MySQL
-*Maven
-*Postman
+*MySQL<br>
+*Maven<br>
+*Postman<br>
 
 # API endpoints
 | Method | Endpoint                    | Description                     |
