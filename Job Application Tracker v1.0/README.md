@@ -1,6 +1,6 @@
 This is version 1.0 of the job application tacker. future enhancement are planned to be made along with my learning journey.
 
-Version 1.0 Features
+# Version 1.0 Features
 1.Create a new job application
 2.Search applications by:
 3.Company Name
@@ -13,7 +13,7 @@ Version 1.0 Features
 10.Input validation
 11.Global exception handling
 
-TECH STACK
+# TECH STACK
 *Java 21
 *Spring Boot
 *Spring Data JPA
@@ -21,7 +21,7 @@ TECH STACK
 *Maven
 *Postman
 
-API endpoints
+# API endpoints
 | Method | Endpoint                    | Description                     |
 | ------ | --------------------------- | ------------------------------- |
 | POST   |  /newapplication            | Create a new application        |
@@ -32,7 +32,7 @@ API endpoints
 | GET    |  /search/status/{status}    | Search by status                |
 | PATCH  |  /update/status/{id}        | Update application status       |
 
-FUTURE IMPROVEMENTS to be made
+# FUTURE IMPROVEMENTS to be made
 *Sorting
 *Authentication
 *Web Interface
