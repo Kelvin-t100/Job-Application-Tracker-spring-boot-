@@ -2,21 +2,21 @@ This is version 1.0 of the job application tacker. future enhancement are planne
 
 # Version 1.0 Features
 1.Create a new job application
-2.Search applications by:
+2.Search applications by
 3.Company Name
-4.Role
+4.Role<br>
 5.Status
 6.Application ID
-7.Update application status
+7.Update application status<br>
 8.Store personal notes for each application
 9.Paginated retrieval of applications
-10.Input validation
+10.Input validation<br>
 11.Global exception handling
 
 # TECH STACK
 *Java 21
 *Spring Boot
-*Spring Data JPA
+*Spring Data JPA<br>
 *MySQL
 *Maven
 *Postman
@@ -33,8 +33,8 @@ This is version 1.0 of the job application tacker. future enhancement are planne
 | PATCH  |  /update/status/{id}        | Update application status       |
 
 # FUTURE IMPROVEMENTS to be made
-*Sorting
-*Authentication
-*Web Interface
-*Cloud Database
-*Deployment
+*Sorting<br>
+*Authentication<br>
+*Web Interface<br>
+*Cloud Database<br>
+*Deployment<br>
